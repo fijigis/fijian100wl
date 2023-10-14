@@ -9,7 +9,7 @@
     </div>
 </%def>
 
-<h2>Welcome to fijian100wl</h2>
+<h2>Fijian Language 100 Word List</h2>
 
 <p class="lead">
     Abstract.
