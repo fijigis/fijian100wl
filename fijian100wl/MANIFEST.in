@@ -1,0 +1,2 @@
+graft fijian100wl
+global-exclude *.py[co]
